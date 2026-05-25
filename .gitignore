@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Keep notebooks
+!*.ipynb
+
+# Keep this file
+!.gitignore
